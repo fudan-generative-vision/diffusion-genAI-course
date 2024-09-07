@@ -15,24 +15,25 @@ This course provides an in-depth study of diffusion models and their application
 
 
 ## 📅 Course Schedule 
-| Lecture | Topic | Content | Slides | Course Materials |
-|:-------:|-------|---------|:------:|:----------------:|
-| 1 | <nobr>Introduction</nobr> | Course Objectives, Features, and Overall Content | [slides](./Slices/L1-introduction.pdf) | N/A |
-| 2 | <nobr>Basics of Generative AI (1)</nobr> | VAE, GAN, Flow-Based Models, and Applications | | |
-| 3 | <nobr>Basics of Generative AI (2)</nobr> | Probability Distributions, Random Variables | | |
-| 4 | <nobr>Fundamentals of Diffusion Models (1)</nobr> | Diffusion Model Principles, DDPMs, DDIMs, SGMs, Score SDEs, VDMs | | |
-| 5 | <nobr>Fundamentals of Diffusion Models (2)</nobr> | Model Structures for Generation Processes: Unet, DiT, Latent Space | | |
-| 6 | <nobr>Machine Learning Frameworks and Tools</nobr> | Machine Learning Frameworks and Tools: Training, Inference, Optimization | | |
-| 7 | <nobr>Images + Diffusion Models</nobr> | LDM, Stable Diffusion, DALL-E, GigaGAN | | |
-| 8 | <nobr>Audio + Diffusion Models</nobr> | Audio Diffusion Models, VideoDiffusion, Sora | | |
-| 9 | <nobr>3D + Diffusion Models</nobr> | NeRF, 3D-VAE, DreamFusion | | |
-| 10 | <nobr>Biology (Structure) + Diffusion Models</nobr> | AlphaFold3, ESMFold, RFdiffusion, SE(3) Diffusion | | |
-| 11 | <nobr>Physics and Meteorology + Diffusion Models</nobr> | GraphCast, Pangu-Weather, NowcastNet, Fuxi | | |
-| 12 | <nobr>Advanced Topics in Diffusion Models (1)</nobr> | External Expert Talk | | |
-| 13 | <nobr>Advanced Topics in Diffusion Models (2)</nobr> | External Expert Talk | | |
-| 14 | <nobr>Paper and Project Presentations</nobr> | Student Presentations of Papers and Projects | | |
-| 15 | <nobr>Paper and Project Presentations</nobr> | Continuation of Student Presentations | | |
-| 16 | <nobr>Paper and Project Presentations</nobr> | Final Student Presentations | | |
+|Lecture|Topic|Content|Slides|Course Materials|
+|:-------:|:-----:|:------:|:------:|:----------------:|
+|1|Introduction|Course Objectives, Features, and Overall Content|[slides](./Slices/L1-introduction.pdf)| N/A|
+|2|Basics of Generative AI (1)|VAE, GAN, Flow-Based Models, and Applications|||
+|3|Basics of Generative AI (2)|Probability Distributions, Random Variables|||
+|4|Fundamentals of Diffusion Models (1)|Diffusion Model Principles, DDPMs, DDIMs, SGMs, Score SDEs, VDMs|||
+|5|Fundamentals of Diffusion Models (2)|Model Structures for Generation Processes: Unet, DiT, Latent Space|||
+|6|Machine Learning Frameworks and Tools|Machine Learning Frameworks and Tools: Training, Inference, Optimization|||
+|7|Images + Diffusion Models|LDM, Stable Diffusion, DALL-E, GigaGAN|||
+|8|Audio + Diffusion Models|Audio Diffusion Models, VideoDiffusion, Sora|||
+|9|3D + Diffusion Models|NeRF, 3D-VAE, DreamFusion|||
+|10|Biology (Structure) + Diffusion Models|AlphaFold3, ESMFold, RFdiffusion, SE(3) Diffusion|||
+|11|Physics and Meteorology + Diffusion Models|GraphCast, Pangu-Weather, NowcastNet, Fuxi|||
+|12|Advanced Topics in Diffusion Models (1)|External Expert Talk|||
+|13|Advanced Topics in Diffusion Models (2)|External Expert Talk|||
+|14|Paper and Project Presentations|Student Presentations of Papers and Projects|||
+|15|Paper and Project Presentations|Continuation of Student Presentations|||
+|16|Paper and Project Presentations|Final Student Presentations|||
+
 ---
 ## 📝 Course Notes 
 
