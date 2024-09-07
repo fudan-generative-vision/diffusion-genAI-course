@@ -15,32 +15,32 @@ This course provides an in-depth study of diffusion models and their application
 
 
 ## 📅 Course Schedule 
-| Lecture | Topic                                      | Content                                                                                     |
-|------|--------------------------------------------|---------------------------------------------------------------------------------------------|
-| 1    | [Introduction](./Slices/L1-introduction.pdf)                        | Course objectives, features, and overall content                                             |
-| 2    | Basics of Generative AI (1)          | VAE, GAN, Flow-based models, and applications                                                |
-| 3    | Basics of Generative AI (2)           | Probability distributions, random variables                                                  |
-| 4    | Fundamentals of Diffusion Models (1)  | Diffusion model principles, DDPMs, DDIMs, SGMs, Score SDEs, VDMs                             |
-| 5    | Fundamentals of Diffusion Models (2)  | Model structures for generation processes: Unet, DiT, Latent space                           |
-| 6    | Machine Learning Frameworks and Tools | Machine learning frameworks and tools: training, inference, optimization                     |
-| 7    | Images + Diffusion Models             | LDM, Stable Diffusion, DALL-E, GigaGAN                                                       |
-| 8    | Audio + Diffusion Models              | Audio Diffusion Models, VideoDiffusion, Sora                                                 |
-| 9    | 3D + Diffusion Models                 | NeRF, 3D-VAE, DreamFusion                                                                    |
-| 10   | Biology (Structure) + Diffusion Models| AlphaFold3, ESMFold, RFdiffusion, SE(3) Diffusion                                            |
-| 11   | Physics and Meteorology + Diffusion Models| GraphCast, Pangu-Weather, NowcastNet, Fuxi                                                  |
-| 12   | Advanced Topics in Diffusion Models (1)| External expert talk                                                                     |
-| 13   | Advanced Topics in Diffusion Models (2)| External expert talk                                                                     |
-| 14   | Paper and Project Presentations       | Student presentations of papers and projects                                                |
-| 15   | Paper and Project Presentations       | Continuation of student presentations                                                        |
-| 16   | Paper and Project Presentations       | Final student presentations                                                                 |
+|Lecture|Topic|Content|Slides|Course Materials|
+|-------|-----|-------|------|----------------|
+|1|Introduction|Course Objectives, Features, and Overall Content|[slides](./Slices/L1-introduction.pdf)| N/A|
+|2|Basics of Generative AI (1)|VAE, GAN, Flow-Based Models, and Applications|||
+|3|Basics of Generative AI (2)|Probability Distributions, Random Variables|||
+|4|Fundamentals of Diffusion Models (1)|Diffusion Model Principles, DDPMs, DDIMs, SGMs, Score SDEs, VDMs|||
+|5|Fundamentals of Diffusion Models (2)|Model Structures for Generation Processes: Unet, DiT, Latent Space|||
+|6|Machine Learning Frameworks and Tools|Machine Learning Frameworks and Tools: Training, Inference, Optimization|||
+|7|Images + Diffusion Models|LDM, Stable Diffusion, DALL-E, GigaGAN|||
+|8|Audio + Diffusion Models|Audio Diffusion Models, VideoDiffusion, Sora|||
+|9|3D + Diffusion Models|NeRF, 3D-VAE, DreamFusion|||
+|10|Biology (Structure) + Diffusion Models|AlphaFold3, ESMFold, RFdiffusion, SE(3) Diffusion|||
+|11|Physics and Meteorology + Diffusion Models|GraphCast, Pangu-Weather, NowcastNet, Fuxi|||
+|12|Advanced Topics in Diffusion Models (1)|External Expert Talk|||
+|13|Advanced Topics in Diffusion Models (2)|External Expert Talk|||
+|14|Paper and Project Presentations|Student Presentations of Papers and Projects|||
+|15|Paper and Project Presentations|Continuation of Student Presentations|||
+|16|Paper and Project Presentations|Final Student Presentations|||
 
 ---
 ## 📝 Course Notes 
--
+
 
 ---
 ## 📖  Extended Reading
--
+
 
 ---
 ## 📂 Coursework
