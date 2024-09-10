@@ -17,7 +17,7 @@ This course provides an in-depth study of diffusion models and their application
 ## 📅 Course Schedule 
 |Lecture|Topic|Content|Slides|Course Materials|
 |:-------:|:-----:|:------:|:------:|:----------------:|
-|1|Introduction|Course Objectives, Features, and Overall Content|[slides](./Slides/L1-introduction.pdf)| N/A|
+|1|Introduction|Course Objectives, Features, and Overall Content|[slides](./slides/L1-introduction.pdf)| N/A|
 |2|Basics of Generative AI (1)|VAE, GAN, Flow-Based Models, and Applications|||
 |3|Basics of Generative AI (2)|Probability Distributions, Random Variables|||
 |4|Fundamentals of Diffusion Models (1)|Diffusion Model Principles, DDPMs, DDIMs, SGMs, Score SDEs, VDMs|||
