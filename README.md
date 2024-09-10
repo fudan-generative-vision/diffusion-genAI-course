@@ -15,6 +15,7 @@ This course provides an in-depth study of diffusion models and their application
 
 
 ## 📅 Course Schedule 
+
 |Lecture|Topic|Content|Slides|Course Materials|
 |:-------:|:-----:|:------:|:------:|:----------------:|
 |1|Introduction|Course Objectives, Features, and Overall Content|[slides](./slides/L1-introduction.pdf)| N/A|
