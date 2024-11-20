@@ -20,8 +20,8 @@ This course provides an in-depth study of diffusion models and their application
 |1|Introduction|Course Objectives, Features, and Overall Content|[L1-introduction.pdf](./slides/L1-introduction.pdf)| N/A|
 |2|Foudations of Generative AI (1)|VAE, GAN, Flow-Based Models, and Applications|[L2-Foudations-of-Generative-AI-(1).pdf](./slides/L2-Foudations-of-Generative-AI-(1).pdf)| N/A|
 |3|Foudations of Generative AI (2)|Probability Distributions, Random Variables|[L3-Foudations-of-Generative-AI-(2).pdf](./slides/L3-Foudations-of-Generative-AI-(2).pdf)| N/A|
-|4|Fundamentals of Diffusion Models (1)|Diffusion Model Principles, DDPMs, DDIMs, SGMs, Score SDEs, VDMs|||
-|5|Fundamentals of Diffusion Models (2)|Model Structures for Generation Processes: Unet, DiT, Latent Space|||
+|4|Fundamentals of Diffusion Models (1)|Diffusion Model Principles, DDPMs, DDIMs, SGMs, Score SDEs, VDMs|[Fundamentals-of-Diffusion-Models.pdf](./slides/L4&5-Fundamentals-of-Diffusion-Models.pdf)| N/A|
+|5|Fundamentals of Diffusion Models (2)|Model Structures for Generation Processes: Unet, DiT, Latent Space|[Fundamentals-of-Diffusion-Models.pdf](./slides/L4&5-Fundamentals-of-Diffusion-Models.pdf)| N/A|
 |6|Machine Learning Frameworks and Tools|Machine Learning Frameworks and Tools: Training, Inference, Optimization|||
 |7|Images + Diffusion Models|LDM, Stable Diffusion, DALL-E, GigaGAN|||
 |8|Audio + Diffusion Models|Audio Diffusion Models, VideoDiffusion, Sora|||
